@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Options xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <XmlFont>
+    <FontFamily>Courier New</FontFamily>
+    <GraphicsUnit>Point</GraphicsUnit>
+    <Size>12</Size>
+    <Style>Regular</Style>
+  </XmlFont>
+</Options>
