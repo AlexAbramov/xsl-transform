@@ -1,6 +1,6 @@
 # XSL Transform UI
 
-Transforms XML document into another format such as HTML, plain text.
+C# WinForms application transforming XML input document into other formats such as HTML, plain text using XSL.
 
 ## Tabs
 
