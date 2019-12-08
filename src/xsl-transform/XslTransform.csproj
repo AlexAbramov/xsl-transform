@@ -100,6 +100,11 @@
     </Compile>
     <Content Include="App.ico" />
     <Content Include="Options.xml" />
+    <Content Include="Res\New.gif" />
+    <Content Include="Res\Open.gif" />
+    <Content Include="Res\Save.gif" />
+    <Content Include="Res\SaveFiles.gif" />
+    <Content Include="Res\Transform.gif" />
     <Content Include="Samples\default\default.xml" />
     <Content Include="Samples\default\default.xslt" />
     <Content Include="Samples\mail-message\mail-message.html" />
@@ -111,9 +116,7 @@
       <DependentUpon>OptionsForm.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Res\" />
-  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <PropertyGroup>
     <PreBuildEvent />
